@@ -3,7 +3,7 @@
 
 # Multi-agent Team
 
-An engaging 1-3 sentence description of your lab.
+Multi-agent Team in Shanghai Aritificial Intelligence Laboratory
 
 {% include section.html %}
 
