@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: xxyQwQ
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Multi-agent Team
+subtitle: Shanghai Aritificial Intelligence Laboratory
+description: Multi-agent Team in Shanghai Aritificial Intelligence Laboratory
+header: images/background.png
+footer: images/background.png
 proofer: false
 
 # site social media and other links
