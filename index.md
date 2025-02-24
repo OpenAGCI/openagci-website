@@ -1,7 +1,7 @@
 ---
 ---
 
-# xxyQwQ's Website
+# Multi-agent Team
 
 An engaging 1-3 sentence description of your lab.
 
