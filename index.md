@@ -11,7 +11,7 @@ We are a passionate group of researchers dedicated to exploring the exciting pat
 
 {% capture text %}
 
-Our team is made up of enthusiastic minds, including experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
+Our team is made up of experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Our team has published numerous papers in top-tier conferences and journals, inc
 
 {% capture text %}
 
-Our team is actively working on a variety of projects, researching on the potential of Multi-agent Systems (MAS) to achieve Artificial General Intelligence (AGI).
+Our team is actively working on a variety of projects, researching on the potential of multi-agent systems to achieve human-level intelligence.
 
 {%
   include button.html
