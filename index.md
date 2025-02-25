@@ -1,9 +1,9 @@
 ---
 ---
 
-# Multi-agent Team
+# OpenAGCI Team
 
-Multi-agent Team in Shanghai Aritificial Intelligence Laboratory
+We are a passionate group of researchers dedicated to exploring the exciting pathway toward achieving Artificial General Intelligence (AGI) through the power of Multi-agent Systems (MAS). Based at the Shanghai AI Laboratory, our team is made up of enthusiastic minds, including experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ Multi-agent Team in Shanghai Aritificial Intelligence Laboratory
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is made up of enthusiastic minds, including experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="members"
+  text="See our team members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,20 +26,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/members.jpg"
+  link="members"
+  title="Team Members"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team has published numerous papers in top-tier conferences and journals, including ICLR, NeurIPS, ICML, AAAI, ACL, and more.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="See our recent publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/publications.jpg"
+  link="publications"
+  title="Recent Publications"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is actively working on a variety of projects, researching on the potential of Multi-agent Systems (MAS) to achieve Artificial General Intelligence (AGI).
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="projects"
+  text="See our working projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/projects.jpg"
+  link="projects"
+  title="Working projects"
   text=text
 %}
