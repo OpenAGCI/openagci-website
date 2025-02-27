@@ -26,7 +26,7 @@ Our team is made up of experienced researchers, postgraduates, and undergraduate
 
 {%
   include feature.html
-  image="images/members.jpg"
+  image="images/resources/members.jpg"
   link="members"
   title="Team Members"
   text=text
@@ -49,7 +49,7 @@ Our team has published numerous papers in top-tier conferences and journals, inc
 
 {%
   include feature.html
-  image="images/publications.jpg"
+  image="images/resources/publications.jpg"
   link="publications"
   title="Recent Publications"
   flip=true
@@ -74,7 +74,7 @@ Our team is actively working on a variety of projects, researching on the potent
 
 {%
   include feature.html
-  image="images/projects.jpg"
+  image="images/resources/projects.jpg"
   link="projects"
   title="Working projects"
   text=text
