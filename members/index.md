@@ -5,16 +5,21 @@ nav:
   tooltip: Members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Members
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Based at the Shanghai AI Laboratory, our team is made up of enthusiastic minds, including experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Supervisors
+
+{% include list.html data="members" component="portrait" filter="role == 'supervisor'" %}
+
+{% include section.html %}
+
+## Students
+
+{% include list.html data="members" component="portrait" filter="role == 'student'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
