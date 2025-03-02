@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Members
 
-Based at the Shanghai AI Laboratory, our team is made up of enthusiastic minds, including experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
+Our team is made up of experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
 
 {% include section.html %}
 
