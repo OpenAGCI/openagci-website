@@ -1,6 +1,6 @@
 ---
 name: Xiangyuan Xue
-image: images/portraits/xiangyuan-xue.jpg
+image: images/portraits/xiangyuan-xue.png
 role: student
 description: Research Intern
 links:
