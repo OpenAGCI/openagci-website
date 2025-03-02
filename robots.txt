@@ -1,1 +1,1 @@
-Sitemap: https://openagci.github.io/openagci-website/sitemap.xml
+Sitemap: http://openagci.org/sitemap.xml
