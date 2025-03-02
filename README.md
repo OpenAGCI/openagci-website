@@ -1,4 +1,4 @@
-Visit **[openagci.github.io/openagci-website](https://openagci.github.io/openagci-website)** 🚀
+Visit **[openagci.org](http://openagci.org)** 🚀
 
 ![on-push](../../actions/workflows/on-push.yaml/badge.svg)
 ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
