@@ -5,20 +5,13 @@ nav:
   tooltip: Publications
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Our team has published numerous papers in top-tier conferences and journals, including ICLR, NeurIPS, ICML, AAAI, ACL, and more.
 
 {% include section.html %}
 
-## All
+## Publications
 
 {% include search-box.html %}
 

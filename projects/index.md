@@ -5,23 +5,16 @@ nav:
   tooltip: Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-code" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team is actively working on a variety of projects, researching on the potential of multi-agent systems to achieve human-level intelligence.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include section.html %}
+
+## Projects
+
+{% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html data="projects" component="card" style="rich" %}

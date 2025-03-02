@@ -2,18 +2,15 @@
 title: OpenAGCI Team
 subtitle: Shanghai AI Laboratory
 description: We are a passionate group of researchers dedicated to exploring the exciting pathway toward achieving Artificial General Intelligence (AGI) through the power of Multi-agent Systems (MAS). Based at the Shanghai AI Laboratory, our team is made up of enthusiastic minds, including experienced researchers, postgraduates, and undergraduates, all working together to push the boundaries of AI research.
-header: images/resources/ackground.png
+header: images/resources/background.png
 footer: images/resources/background.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@xxyQwQ.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: xxyQwQ
-  twitter: xxyQwQ
-  youtube: xxyQwQ
+  home-page: https://openagci.org/
+  email: comm@pjlab.org.cn
+  github: openagci
 
 ### jekyll settings
 
